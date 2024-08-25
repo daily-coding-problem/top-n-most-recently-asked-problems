@@ -1,4 +1,3 @@
-
 // Please note that this code is intended to be run in a browser console.
 // You can run this code in the browser console by visiting the LeetCode company page and pasting the code in the console.
 // Please ensure that you have LeetCode Premium access to view the company-specific problems.
