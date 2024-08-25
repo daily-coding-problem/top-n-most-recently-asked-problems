@@ -3,6 +3,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FF4B00?style=flat-square&logo=leetcode&logoColor=white)
 
+![Example](/images/example.png)
+
 Top N Most Recently Asked Problems is a JavaScript-based tool designed to generate URLs for accessing LeetCode problems specifically categorized by company, difficulty, and timeframe. This tool allows users to focus their study on the most frequently asked questions in technical interviews.
 
 ## Table of Contents
